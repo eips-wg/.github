@@ -4,7 +4,7 @@ _This organization is owned by @SamWilsn._
 
 ## Rendered Proposals
 
-**<https://github.com/eips-wg/EIPs>**
+**<https://eips-wg.github.io/EIPs/>**
 
 ## Repositories
 
